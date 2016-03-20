@@ -16,7 +16,7 @@ It also assumes you have `curl` and `jq` installed.
 Copy this directory into your Awesome config directory (often `~/.config/awesome`)
 
 ```
-git clone git@github.com/benhartley/github-notification-widget /path/to/awesome/config/
+git clone git@github.com:benhartley/github-notification-widget /path/to/awesome/config/
 ```
 
 Then `require` the widget into your main `rc.lua` file and add it to your `right_layout` like so:
