@@ -15,7 +15,7 @@ It also assumes you have `curl` and `jq` installed.
 ## Install
 Copy this directory into your Awesome config directory (often `~/.config/awesome`)
 
-```
+``` sh
 git clone git@github.com:benhartley/github-notification-widget /path/to/awesome/config/
 ```
 
